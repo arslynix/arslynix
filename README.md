@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm Seval Buse Arslan!  
 - 🌱 Currently learning **Python** and **C#**, while working on exciting projects.  
 - 🚀 Exploring database design, project management, and backend development.  
-- 🎓 Management Information Systems student | Passionate about cycling and music. 
+- 🎓 Management Information Systems student. 
 
 - 📬 Let's connect: [cloudgirlsblog](https://instagram.com/cloudgirlsblog)  
